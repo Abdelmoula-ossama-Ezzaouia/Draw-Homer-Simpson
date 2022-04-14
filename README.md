@@ -1,2 +1,2 @@
 # Draw-Homer-Simpson
-Draw Homer Simpson with CSS
+Draw Homer Simpson with CSS & HTML
